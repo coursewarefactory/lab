@@ -1,7 +1,7 @@
 {
 	"reports": [{
 			"id": 1,
-			"user": "lab_user_name1",
+			"userId": "lab_user_name1",
 			"pH": 1,
 			"hardness": 2,
 			"TDS": 3,
@@ -9,7 +9,7 @@
 		},
 		{
 			"id": 2,
-			"user": "lab_user_name1",
+			"userId": "lab_user_name1",
 			"pH": 1,
 			"hardness": 2,
 			"TDS": 3,
@@ -17,7 +17,7 @@
 		},
 		{
 			"id": 3,
-			"user": "lab_user_name1",
+			"userId": "lab_user_name1",
 			"pH": 1,
 			"hardness": 2,
 			"TDS": 3,
@@ -26,7 +26,7 @@
 
 		{
 			"id": 4,
-			"user": "lab_user_name1",
+			"userId": "lab_user_name1",
 			"pH": 1,
 			"hardness": 2,
 			"TDS": 3,
@@ -34,7 +34,7 @@
 		},
 		{
 			"id": 5,
-			"user": "lab_user_name1",
+			"userId": "lab_user_name1",
 			"pH": 1,
 			"hardness": 2,
 			"TDS": 3,
@@ -42,7 +42,7 @@
 		},
 		{
 			"id": 6,
-			"user": "lab_user_name1",
+			"userId": "lab_user_name1",
 			"pH": 1,
 			"hardness": 2,
 			"TDS": 3,
@@ -50,7 +50,7 @@
 		},
 		{
 			"id": 7,
-			"user": "lab_user_name1",
+			"userId": "lab_user_name1",
 			"pH": 1,
 			"hardness": 2,
 			"TDS": 3,
@@ -58,7 +58,7 @@
 		},
 		{
 			"id": 8,
-			"user": "lab_user_name1",
+			"userId": "lab_user_name1",
 			"pH": 1,
 			"hardness": 2,
 			"TDS": 3,
@@ -66,7 +66,7 @@
 		},
 		{
 			"id": 9,
-			"user": "lab_user_name1",
+			"userId": "lab_user_name1",
 			"pH": 1,
 			"hardness": 2,
 			"TDS": 3,
@@ -74,7 +74,7 @@
 		},
 		{
 			"id": 10,
-			"user": "lab_user_name1",
+			"userId": "lab_user_name1",
 			"pH": 1,
 			"hardness": 2,
 			"TDS": 3,
