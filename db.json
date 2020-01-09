@@ -25,7 +25,7 @@
 	{ "id": 4, "type": "regulator", "company.name":"regulator_name4", "username":"regulator_user_name4", "email":"regulator4@example.com", "address.street":" street address", "phone":111111111, "website":"www.example.com"},
 	{ "id": 5, "type": "regulator", "company.name":"regulator_name5", "username":"regulator_user_name5", "email":"regulator5@example.com", "address.street":" street address", "phone":111111111, "website":"www.example.com"},
 	{ "id": 6, "type": "regulator", "company.name":"regulator_name6", "username":"regulator_user_name6", "email":"regulator6@example.com", "address.street":" street address", "phone":111111111, "website":"www.example.com"},
-	{ "id": 7, "type": "regulator", "company.name":"regulator_name7", "username":"regulator_user_name7", "email":"regulator7@example.com", "address.street":" street address", "phone":111111111, "website":"www.example.com"}
+	{ "id": 7, "type": "regulator", "company.name":"regulator_name7", "username":"regulator_user_name7", "email":"regulator7@example.com", "address.street":" street address", "phone":111111111, "website":"www.example.com"},
 	{ "id": 1, "type": "company", "company.name":"company_name1", "username":"company_user_name1", "email":"company1@example.com", "address.street":" street address", "phone":111111111, "website":"www.example.com"},
 	{ "id": 2, "type": "company", "company.name":"company_name2", "username":"company_user_name2", "email":"company2@example.com", "address.street":" street address", "phone":111111111, "website":"www.example.com"},
 	{ "id": 3, "type": "company", "company.name":"company_name3", "username":"company_user_name3", "email":"company3@example.com", "address.street":" street address", "phone":111111111, "website":"www.example.com"},
